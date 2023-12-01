@@ -1,16 +1,8 @@
-# eco_monitor
+# Eco Monitor
 
-A new Flutter project.
+Trabalho dos alunos do curso de Ciência da Computação da PUC Minas para a disciplina "Trabalho Interdisciplinar V: Sistemas Computacionais".
 
-## Getting Started
+## Integrantes
 
-This project is a starting point for a Flutter application.
+Barbara Luciano Araujo, Caio Henrique Alvarenga Gonçalves, Daniel da Silveira Moreira, Luisa Nogueira Campos Silva Souza e Ricardo Henrique Guedes Furiati
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
