@@ -6,3 +6,4 @@ Trabalho dos alunos do curso de Ciência da Computação da PUC Minas para a dis
 
 Barbara Luciano Araujo, Caio Henrique Alvarenga Gonçalves, Daniel da Silveira Moreira, Luisa Nogueira Campos Silva Souza e Ricardo Henrique Guedes Furiati
 
+## Sobre o Sistema
